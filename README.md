@@ -1,2 +1,2 @@
-# HelloGitHub
-First GutHub Repo
+# Hello GitHub!
+This is my first repository. Excited to learn GitHub!
